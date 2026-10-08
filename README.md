@@ -28,6 +28,12 @@ Each project folder contains the `.pbix` file, screenshots and a short write-up 
 - **Report design** — KPI cards, slicers, drill-down, custom tooltips, multi-page navigation
 - **Business analysis** — Pareto / ABC classification, P&L analysis, plan vs actual, customer segmentation
 
+## 🚀 How to open
+
+1. Download a `.pbix` file — open it on GitHub and click **Download raw file**, or download the whole repo via **Code → Download ZIP**.
+2. Install **[Power BI Desktop](https://www.microsoft.com/power-platform/products/power-bi/desktop)** (free, Windows only).
+3. Open the `.pbix` file — all data is stored inside the file, so the report works without any setup.
+
 ## 📁 Repository structure
 
 ```
